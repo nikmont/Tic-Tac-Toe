@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Problems/Rotate a rectange array/out/
+/Problems/Rotate a rectange array/out/production/classes/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/
