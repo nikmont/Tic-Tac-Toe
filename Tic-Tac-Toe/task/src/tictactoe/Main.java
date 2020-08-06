@@ -13,7 +13,6 @@ public class Main {
             printField(arr);
             enterCell(arr);
             line = twoDimIntoOne(arr);
-            //if (!line.toString().contains(" "))
             result = checkWin(line);
             if (!isMoreSpace(line) & result.length() < 6) {
                 result = "Draw";
